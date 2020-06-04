@@ -4,9 +4,11 @@ _____
 
 # Configuring & Managing FlashBlade
 - [FlashBlade Zero Touch Provisioning (remote provisioning)](https://github.com/PureStorage-OpenConnect/zero-touch-provisioner)
-- [FlashBlade ansible playbooks](https://github.com/PureStorage-OpenConnect/ansible-playbook-examples/tree/master/flashblade)
+- [FlashBlade Ansible Collections](https://galaxy.ansible.com/purestorage/flashblade)
+  - [FlashBlade Ansible playbook examples](https://github.com/PureStorage-OpenConnect/ansible-playbook-examples/tree/master/flashblade)
 - [FlashBlade PowerShell toolkit](https://github.com/PureStorage-OpenConnect/flashblade-powershell-toolkit)
 - [Purity//FB REST API docs](https://purity-fb.readthedocs.io/en/latest/)
+- [FlashBlade REST Python SDK](https://github.com/purestorage/purity_fb_python_client)
 
 
 # Monitoring FlashBlade 
