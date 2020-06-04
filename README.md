@@ -12,7 +12,7 @@ _____
 
 
 # Monitoring FlashBlade 
-- [Pure exporter to Prometheus (python-based, Pure-led)](https://github.com/PureStorage-OpenConnect/pure-exporter-pso)
+- [Pure exporter to Prometheus (python-based, Pure-led)](https://github.com/PureStorage-OpenConnect/pure-exporter)
   - includes example Grafana dashboards
 - [PSO-analytics: metrics on PSO-managed storage in a K8s cluster](https://github.com/joshuarobinson/pso-analytics)
 - [Nagios plugins & extensions](https://github.com/PureStorage-OpenConnect/nagios-plugins)
