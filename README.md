@@ -26,3 +26,4 @@ _____
 # Performance testing 
 - [Running s5cmd to benchmark object storage](https://github.com/joshuarobinson/s5cmd_benchmarking)
 - [Running fio on FlashBlade in K8s](https://github.com/joshuarobinson/fio-kubernetes)
+- [AIRI performance tools](https://github.com/PureStorage-OpenConnect/AIRI/tree/master/network-validation-tools)
