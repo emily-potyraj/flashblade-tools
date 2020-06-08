@@ -30,3 +30,7 @@ _____
 - [Running s5cmd to benchmark object storage](https://github.com/joshuarobinson/s5cmd_benchmarking)
 - [Running fio on FlashBlade in K8s](https://github.com/joshuarobinson/fio-kubernetes)
 - [AIRI performance tools](https://github.com/PureStorage-OpenConnect/AIRI/tree/master/network-validation-tools)
+
+_____
+
+There's also a Slack team for the Pure Storage Code() developer community. Pure Storage customers can join the Slack team following instructions in [this post](https://blog.purestorage.com/join-the-pure-storage-code-slack-team/).
